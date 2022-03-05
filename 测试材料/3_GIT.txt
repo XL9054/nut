@@ -1,0 +1,4 @@
+GIT是一个分布式的版本控制系统
+
+GIT工作流
+master develop hotfix  feature release
