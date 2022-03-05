@@ -1,0 +1,14 @@
+
+接口测试：postman 
+安全测试：appscan 
+性能测试：jmeter
+缺陷管理：禅道
+配置管理：SVN
+抓包工具 :Fidder
+ 
+1、了解appscan的使用
+
+安装在 Windows 操作系统上，可以对网站等 Web 应用进行自动化的应用安全扫描和测试。
+使用案例 https://blog.csdn.net/qq_38317509/article/details/81347219
+
+2、jmeter
