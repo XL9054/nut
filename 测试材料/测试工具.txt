@@ -3,7 +3,7 @@
 安全测试：appscan 
 性能测试：jmeter
 缺陷管理：禅道
-版本管理软件：SVN
+版本管理软件：SVN、GIT
 抓包工具 :Fidder
  
 1、了解appscan的使用
